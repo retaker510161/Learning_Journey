@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "test"
             }
+          },
+          {
+            "id": "867b49335b48772d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DC"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,9 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc140042fe75d837",
+  "active": "867b49335b48772d",
   "lastOpenFiles": [
-    "歡迎.md",
-    "test.md"
+    "MOC-term.md",
+    "DC.md",
+    "test.md",
+    "歡迎.md"
   ]
 }
