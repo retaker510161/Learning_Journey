@@ -25,3 +25,5 @@ Think of a Domain Controller like the **reception security desk** in a big offic
 
 > **Why is it useful?** Without a Domain Controller, an IT manager would have to manually create your user account and set permissions on **every single computer and printer** in the office. With a DC, they only do it once.
 ---
+
+[uncompleted](uncompleted)

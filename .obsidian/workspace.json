@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f89962002777999b",
+        "id": "d6e24ac6bb0487e3",
         "type": "tabs",
         "children": [
           {
-            "id": "867b49335b48772d",
+            "id": "630c61e792618565",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "867b49335b48772d",
+  "active": "630c61e792618565",
   "lastOpenFiles": [
-    "MOC-term.md",
+    "uncompleted.md",
     "DC.md",
+    "tags.md",
+    "().md",
+    "MOC-term.md",
     "test.md",
     "歡迎.md"
   ]
