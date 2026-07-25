@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC-term.md",
-                "mode": "preview",
+                "file": "DC.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC-term"
+              "title": "DC"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "867b49335b48772d",
   "lastOpenFiles": [
+    "MOC-term.md",
     "DC.md",
     "test.md",
-    "MOC-term.md",
     "歡迎.md"
   ]
 }
